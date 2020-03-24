@@ -2,7 +2,7 @@
 using Foundation;
 using ObjCRuntime;
 
-namespace Binding.Intercom.iOS
+namespace Xamarin.iOS.Intercom
 {
 	// @interface ICMCompany : NSObject
 	[BaseType(typeof(NSObject))]

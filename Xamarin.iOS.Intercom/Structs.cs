@@ -1,7 +1,7 @@
 ﻿using System;
 using ObjCRuntime;
 
-namespace Binding.Intercom.iOS
+namespace Xamarin.iOS.Intercom
 {
 	[Native]
 	public enum ICMPreviewPosition : int
