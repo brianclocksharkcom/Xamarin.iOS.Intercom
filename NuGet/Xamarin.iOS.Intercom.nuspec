@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Xamarin.iOS.Intercom.V6</id>
+    <version>6.1.0</version>
+    <title>Xamarin iOs Intercom</title>
+    <authors>Brian Buie</authors>
+    <projectUrl>https://github.com/brianclocksharkcom/Xamarin.iOS.Intercom</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Intercom Xamarin SDK, for integrating Intercom into your Xamarin iOS application.</description>
+    <tags>xamarin, ios, intercom</tags>
+  </metadata>
+  
+  <files>
+    <file src="../bin/Release/Xamarin.iOS.Intercom.dll"
+		target="lib/xamariniOS10/Xamarin.iOS.Intercom.dll" />
+  </files>
+</package>
